@@ -17,13 +17,9 @@ A:
     2. initiate hash table/map with roman numeral conversions
     3. initiate loop to iterate through strings O(n)
         3a. store current roman numeral in a variable (currRomanNum)
-        3b. check to see the value of the current roman numeral based on hash map
-            3ba. if its I, check to see if V or X is after it
-                - if so, get its value, add it to sum, and adjust pointer (i);
-            3bb. if its X, check to see if L and C is after it
-                - if so, get its value, add it to sum, and adjust pointer (i);
-            3bc. if its C, check to see if D or M is after it
-                - if so, get its value, add it to sum, and adjust pointer (i);
+        3b. check to see the value of the current roman numeral is less than the next roman numera
+            3ba. if it is, subtract it from the next roman numeral and add it to sumk, then adjust pointer,
+            3bb. else, add current roman numeral num to sum and continue
     4. return final output (sum)
 C:
 */
