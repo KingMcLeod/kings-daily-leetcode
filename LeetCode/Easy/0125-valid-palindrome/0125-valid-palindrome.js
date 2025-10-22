@@ -39,41 +39,38 @@ A:
  */
 var isPalindrome = function(s) {
     // algorithm 1 O(n^2) ?
-    let alphaStr = "";
-    const alphabet = "abcdefghijklmnopqrstuvwxyz";
-    const nums = "0123456789";
-
-    for (let i = 0; i < s.length; i++) {
-        const currentChar = s[i].toLowerCase();
-        if (alphabet.includes(currentChar) || nums.includes(currentChar)) {
-            alphaStr += currentChar;
-        };
-    };
-    const reversedStr = alphaStr.split("").reverse().join("");
-    return alphaStr === reversedStr;
-
-    // algorithm 2
+    // let alphaStr = "";
     // const alphabet = "abcdefghijklmnopqrstuvwxyz";
     // const nums = "0123456789";
-    // const lowercaseStr = s.toLowerCase();
-    // let l = 0, r = lowercaseStr.length - 1;
-    // console.log("string lowercased: ", lowercaseStr)
-    
-    // while (l <= r) {
 
-        
-    //     console.log("current l char: ", lowercaseStr[l])
-    //     console.log("current r char: ", lowercaseStr[r])
-    //     if (!alphabet.includes(lowercaseStr[l]) || !nums.includes(lowercaseStr[l])) {
-    //         l++;
-    //     } else if (!alphabet.includes(lowercaseStr[r]) || !nums.includes(lowercaseStr[r])) {
-    //         r--;
-    //     } else if (lowercaseStr[l] !== lowercaseStr[r]) {
-    //         return false;
-    //     } else {
-    //         l++;
-    //         r--;
-    //     }
+    // for (let i = 0; i < s.length; i++) {
+    //     const currentChar = s[i].toLowerCase();
+    //     if (alphabet.includes(currentChar) || nums.includes(currentChar)) {
+    //         alphaStr += currentChar;
+    //     };
     // };
-    // return true;
+    // const reversedStr = alphaStr.split("").reverse().join("");
+    // return alphaStr === reversedStr;
+
+    // algorithm 2
+    const alphaNumRegex = /^[a-z0-9]+$/i;
+    let alphaStr = "";
+    
+    for (const char of s) {
+        if (alphaNumRegex.test(char)) {
+            alphaStr += char.toLowerCase();
+        };
+
+    };
+    
+    let l = 0, r = alphaStr.length - 1;
+    while (l <= r) {
+        if (alphaStr[l] !== alphaStr[r]) {
+            return false;
+        } else {
+            l++;
+            r--;
+        };
+    };
+    return true;
 };
