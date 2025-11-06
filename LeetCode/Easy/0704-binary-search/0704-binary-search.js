@@ -39,10 +39,10 @@ var search = function(nums, target) {
 
         if (nums[mid] === target) {
             return mid;
-        } else if (nums[l] < target) {
-            l++;
-        } else if (nums[r] > target) { // you could also do just an else
-            r--;
+        } else if (nums[mid] < target) {
+            l = mid + 1;
+        } else if (nums[mid] > target) { // you could also do just an else
+            r = mid - 1;
         }
     }
     return -1;
