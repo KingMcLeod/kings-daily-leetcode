@@ -28,3 +28,11 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ---
 
 > “Consistency beats intensity — one problem a day adds up.”
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1791-find-center-of-star-graph/) | Easy |
+<!---LeetCode Topics End-->
