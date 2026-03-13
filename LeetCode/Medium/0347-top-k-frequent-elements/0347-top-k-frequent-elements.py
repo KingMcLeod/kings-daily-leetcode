@@ -1,6 +1,10 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        import heapq
         
+        # variables
+        output = []
+        max_heap = []
         hash_dict = {}
 
         for i in range(len(nums)):
@@ -11,7 +15,18 @@ class Solution:
             else: 
                 hash_dict[current_num] = 1
 
-        top_k = sorted(hash_dict.items(), key=lambda item: item[1], reverse=True)[:k]
-        print(top_k)
+        for key, freq in hash_dict.items():
+            curr_pair = [freq, key]
 
-        return [num for num, freq in top_k]
+            if len(max_heap) >= k:
+                if max_heap[-1][0] < curr_pair[0]:
+                    heapq.heappop_max(max_heap)
+                    heapq.heappush_max(max_heap, curr_pair)
+            else:
+                heapq.heappush_max(max_heap, curr_pair)
+
+        for freq, key in max_heap:
+            output.append(key)
+
+        return output
+
