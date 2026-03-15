@@ -23,21 +23,19 @@ A: Time: O(N*logk, Space: O(k)
     3. return first element in heap (kth largest)
 """
 
+# import(s)
+import heapq
+
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        import heapq
-
         # variable(s)
         min_heap = []
 
-        for i in range(len(nums)):
-            curr_num = nums[i]
+        for curr_num in nums:
 
             if len(min_heap) < k:
                 heapq.heappush(min_heap, curr_num)
-            else:
-                if min_heap[0] < curr_num:
-                    heapq.heappushpop(min_heap, curr_num)
+            elif min_heap[0] < curr_num:
+                heapq.heappushpop(min_heap, curr_num)
 
         return min_heap[0]
-
