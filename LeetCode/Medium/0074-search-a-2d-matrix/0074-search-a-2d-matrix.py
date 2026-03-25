@@ -26,12 +26,22 @@ A:
 
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        # for loop to access matrix
-        for row in matrix:
-            for col in range(len(row)):
-                # variables created
-                start, end = row[0], row[-1]
-                if start <= target and target <= end:
-                    if row[col] == target:
-                        return True
-        return False   
+        num_of_rows = len(matrix)
+        num_of_cols = len(matrix[0])
+
+        start, end = 0, num_of_rows * num_of_cols - 1
+
+        while start <= end:
+            mid = math.floor((start + end) / 2)
+
+            row = math.floor(mid / num_of_cols)
+            col = mid % num_of_cols
+        
+            if matrix[row][col] == target:
+                return True
+            elif matrix[row][col] > target:
+                end = mid - 1
+            elif matrix[row][col] < target:
+                start = mid + 1
+
+        return False
