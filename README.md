@@ -39,6 +39,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
@@ -53,6 +54,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -64,6 +66,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -108,4 +111,8 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
