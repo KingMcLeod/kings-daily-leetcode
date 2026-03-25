@@ -34,6 +34,4 @@ class Solution:
                 if start <= target and target <= end:
                     if row[col] == target:
                         return True
-        return False
-
-        
+        return False   
