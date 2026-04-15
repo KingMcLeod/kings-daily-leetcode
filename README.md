@@ -58,6 +58,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
