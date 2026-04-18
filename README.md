@@ -42,6 +42,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
@@ -72,6 +74,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
