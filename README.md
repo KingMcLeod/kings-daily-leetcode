@@ -41,6 +41,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0001-two-sum](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -59,6 +60,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -67,12 +69,14 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -88,6 +92,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
