@@ -1,53 +1,48 @@
-"""
+'''
 P:
-    input: string (s)
-    output: boolean (true/false)
-    task: based on the order of opening/closing parentheses, return true/false if the input is valid (opening must have its closing match or it will be invalid)
+    input: str of chars (s)
+    output: boolean (True/False)
+    task: return true or false if the order of parentheses are closed correctly (opening -> closing)
 
-E:
-    - what if it its empty?: won't happen, guaranteed at least 1 thing in the input string
-    - what if there's other characters in the string?: won't happen, guaranteed only parentheses
-    - what if the input starts with a closing: return false becuase order is invalid (doesn't have a opening to be paired with)
+E>
+    - input will never be empty (guaranteed at least 1 char)
+    - input will only consist of parentheses ( ()[]{} )
 D:
-    strings, booleans, lists, dicts
+    - dict (opening / closing relationships), stack, strs
+
 A:
-    1. initializE a dict with the key-value pairs of parentheses: opening = closing vice versa
-    2. initialize an empty stack (implement our queueing system)
-    3. iterate through the string char by char
-        3a. check if we're looking at an opening or closing
-            3aa. if it's an opening, push it onto stack
-            3ab. if it's a closing, then check if it its opening that we've seen
-                - if it does, pop the opening off the stack
-                - if it doesn't, return false immediately
-    4. return whether or not the stack is empty
-"""
+    1. initialize dict (with parentheses relationsships) + empty stack
+    2. iterate through the input
+        2a. check to see if the curr char is an opening (key)
+            - if it is, push (append) it onto the stack
+            - if it isn't:
+                - check the most recent item to see if its a match
+                    - if it is, then pop the match off the stack
+                    - if it isn't, then we will return false (invalid)
+    3. return if the stack is empty (meaning the input is valid)
+'''
+
 class Solution:
     def isValid(self, s: str) -> bool:
-        # variables
-        stack_dict = {
-            '(': ')',
-            '{': '}',
-            '[': ']'
+        paren_stack = []
+        paren_dict = {
+            "(": ")",
+            "{": "}",
+            "[": "]"
         }
 
-        string_stack = []
-
-        for i in range(len(s)):
-            char = s[i]
-            # case 1: we have an opening
-            if char in stack_dict:
-                string_stack.append(char)
-                # print('adding opening to stack:' + string_stack)
-            # case 2: if we have a closing
+        for char in s:
+            if char in paren_dict:
+                paren_stack.append(char)
             else:
-                if len(string_stack) > 0:
-                    open_paren = string_stack[-1]
-                    if char == stack_dict[open_paren]:
-                        string_stack.pop()
-                    else:
-                        return False
-                else:
+                if len(paren_stack) <= 0:
                     return False
 
-        return len(string_stack) == 0
-        
+                recent_item = paren_stack[-1]
+
+                if char == paren_dict[recent_item]:
+                    paren_stack.pop(-1)
+                else:
+                    return False
+                    
+        return len(paren_stack) == 0
