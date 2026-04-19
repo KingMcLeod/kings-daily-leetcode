@@ -129,6 +129,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 ## Tree
@@ -144,4 +145,8 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
