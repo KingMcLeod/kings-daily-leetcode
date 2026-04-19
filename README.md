@@ -66,6 +66,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0704-binary-search](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
