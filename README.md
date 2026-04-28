@@ -62,6 +62,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
@@ -118,6 +119,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Recursion
