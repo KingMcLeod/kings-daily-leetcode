@@ -12,24 +12,14 @@ E:
 D:
     - strings, lists, matrixes 
 """
-
+from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        from collections import defaultdict
+        sorted_dict = defaultdict(list) # auto-assigns an empty list to a new key in the dict
 
-        # dict where each key is a sorted string, val is a list of its anagrams
-        # defaultdict(list) means any new key automatically starts as an empty list
-        sorted_dict = defaultdict(list)
-        
-        for word in strs: 
-            # sort the word alphabetically so all anagrams map to the same key
-            # ex: "eat", "tea", "ate" all become "aet"
-            sorted_str = "".join(sorted(word))
+        for word in strs:
+            sorted_str = "".join(sorted(word)) # sort each string's characters alphabetically to create a hashable key
 
-            # group the original word under its sorted key
-            # ex: sorted_dict["aet"] = ["eat", "tea", "ate"]
-            sorted_dict[sorted_str].append(word)        
-        
-        # return just the groups (values), not the sorted keys
-        # ex: [["eat","tea","ate"], ["tan","nat"], ["bat"]]
-        return list(sorted_dict.values())
+            sorted_dict[sorted_str].append(word) # group the original string under its sorted key
+
+        return list(sorted_dict.values()) # returns the substrings (dict values) in one list together
