@@ -51,6 +51,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
