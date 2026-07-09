@@ -12,13 +12,18 @@ class Solution:
         
         count = 0
 
-        while count != n:
-            ptr_1 = ptr_1.next
-            count += 1
+        # while count != n:
+        #     ptr_1 = ptr_1.next
+        #     count += 1
+
 
         while ptr_1.next is not None:
             ptr_1 = ptr_1.next
-            ptr_2 = ptr_2.next
+
+            if count >= n:
+                ptr_2 = ptr_2.next
+
+            count += 1
 
         ptr_2.next = ptr_2.next.next
         return dummy.next
