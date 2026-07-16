@@ -63,6 +63,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0283-move-zeroes](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0704-binary-search](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +190,12 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/3076-shortest-uncommon-substring-in-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
