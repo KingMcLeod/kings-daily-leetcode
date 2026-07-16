@@ -13,4 +13,5 @@ class Solution:
             if nums[ptr_2] != 0:
                 nums[ptr_1], nums[ptr_2] = nums[ptr_2], nums[ptr_1]
                 ptr_1 += 1
+
             ptr_2 += 1
