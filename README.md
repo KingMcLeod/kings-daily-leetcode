@@ -134,6 +134,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0002-add-two-numbers](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +164,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0345-reverse-vowels-of-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -205,4 +207,5 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 <!---LeetCode Topics End-->
