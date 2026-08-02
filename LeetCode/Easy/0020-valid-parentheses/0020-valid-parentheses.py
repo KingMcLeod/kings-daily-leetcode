@@ -1,48 +1,48 @@
 '''
-P:
-    input: str of chars (s)
-    output: boolean (True/False)
-    task: return true or false if the order of parentheses are closed correctly (opening -> closing)
+P;
+    input: string (diff parentheses)
+    output: boolean
+    task: determine if the string input is valid:
+    - Open brackets must be closed by the same type of brackets.
+    - Open brackets must be closed in the correct order.
+    - Every close bracket has a corresponding open bracket of the same type.
 
-E>
-    - input will never be empty (guaranteed at least 1 char)
-    - input will only consist of parentheses ( ()[]{} )
+E:
+    - input string will never be empty (at least 1 char)
+    - input string will only contain parentheses '()[]{}
+
 D:
-    - dict (opening / closing relationships), stack, strs
+    strings, stack, booleans
 
 A:
-    1. initialize dict (with parentheses relationsships) + empty stack
-    2. iterate through the input
-        2a. check to see if the curr char is an opening (key)
-            - if it is, push (append) it onto the stack
-            - if it isn't:
-                - check the most recent item to see if its a match
-                    - if it is, then pop the match off the stack
-                    - if it isn't, then we will return false (invalid)
-    3. return if the stack is empty (meaning the input is valid)
+    1. initialize an empty stack
+    2. init a dict with key-value pairs of the parentheses
+    3. iterate through string:
+        - if it's an opening, push onto stack
+        - if it's a closing, check recent thing added to stack
+            - if it matches, pop off stack
+            - if it doesn't, return false (1st false case)
+    4. return if the stack is empty (2nd false case -> else true)
 '''
 
 class Solution:
     def isValid(self, s: str) -> bool:
         paren_stack = []
         paren_dict = {
-            "(": ")",
-            "{": "}",
-            "[": "]"
+            ')': '(',
+            '}': '{',
+            ']':'['
         }
 
-        for char in s:
-            if char in paren_dict:
-                paren_stack.append(char)
+        for char in range(len(s)):
+            curr_paren = s[char]
+
+            if curr_paren not in paren_dict:
+                paren_stack.append(curr_paren)
             else:
-                if len(paren_stack) <= 0:
-                    return False
-
-                recent_item = paren_stack[-1]
-
-                if char == paren_dict[recent_item]:
-                    paren_stack.pop(-1)
+                if len(paren_stack) > 0 and paren_dict[curr_paren] == paren_stack[-1]:
+                    paren_stack.pop()
                 else:
                     return False
-                    
+
         return len(paren_stack) == 0
