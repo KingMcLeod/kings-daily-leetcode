@@ -134,6 +134,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -163,6 +164,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
@@ -186,6 +188,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
