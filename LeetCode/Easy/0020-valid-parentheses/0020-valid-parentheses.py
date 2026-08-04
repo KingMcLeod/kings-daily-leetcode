@@ -34,15 +34,15 @@ class Solution:
             ']':'['
         }
 
-        for char in range(len(s)):
-            curr_paren = s[char]
+        for curr_paren in s:
 
             if curr_paren not in paren_dict:
                 paren_stack.append(curr_paren)
-            else:
-                if len(paren_stack) > 0 and paren_dict[curr_paren] == paren_stack[-1]:
-                    paren_stack.pop()
-                else:
-                    return False
+                continue
+            
+            if len(paren_stack) == 0 or paren_dict[curr_paren] != paren_stack[-1]:
+                return False
+
+            paren_stack.pop()
 
         return len(paren_stack) == 0
