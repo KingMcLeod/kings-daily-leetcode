@@ -4,22 +4,24 @@ class Solution:
         open_paren = "("
         close_paren = ")"
         paren_cntr = 0
-        start, end = 0, 0
+        # start, end = 0, 0
+        substr_list = []
 
         for idx in range(len(s)):
             paren = s[idx] # store curr parenthesis in variable
-
+                
             if paren == open_paren:
-                if paren_cntr == 0:
-                    start = idx
                 paren_cntr += 1
-            elif paren_cntr > 0 and paren == open_paren:
-                paren_cntr += 1
+
+                if paren_cntr > 1:
+                    substr_list.append(paren)
 
             if paren == close_paren:
                 paren_cntr -= 1
-                if paren_cntr == 0:
-                    end = idx
-                    result_str += s[start + 1:end]
 
-        return result_str
+                if paren_cntr > 0:
+                    substr_list.append(paren)
+            
+
+
+        return "".join(substr_list)
