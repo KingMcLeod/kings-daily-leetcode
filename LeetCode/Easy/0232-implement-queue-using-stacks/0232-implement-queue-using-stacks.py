@@ -18,18 +18,15 @@ class MyQueue:
     def peek(self) -> int:
         if len(self.pop_stack) > 0:
             return self.pop_stack[-1]
-        else:
-            while len(self.push_stack) > 0:
-                popped_num = self.push_stack.pop()
-                self.pop_stack.append(popped_num)
-            return self.pop_stack[-1]
+        
+        while len(self.push_stack) > 0:
+            popped_num = self.push_stack.pop()
+            self.pop_stack.append(popped_num)
+
+        return self.pop_stack[-1]
 
     def empty(self) -> bool:
-        if len(self.pop_stack) == 0 and len(self.push_stack) == 0:
-            return True
-        else:
-            return False
-        
+        return len(self.pop_stack) == 0 and len(self.push_stack) == 0
 
 
 # Your MyQueue object will be instantiated and called as such:
