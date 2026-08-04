@@ -221,4 +221,8 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
