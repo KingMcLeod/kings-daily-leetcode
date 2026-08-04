@@ -168,6 +168,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0345-reverse-vowels-of-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/3076-shortest-uncommon-substring-in-an-array/) | Medium |
@@ -190,6 +191,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,4 +227,5 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
