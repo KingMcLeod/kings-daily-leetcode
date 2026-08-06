@@ -175,6 +175,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -184,11 +185,13 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -228,4 +231,8 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
