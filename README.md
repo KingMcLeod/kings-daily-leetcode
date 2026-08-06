@@ -178,6 +178,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,12 +190,14 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -239,4 +242,5 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
