@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-left_leaves_sum = 0
+
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
         left_leaves = []
