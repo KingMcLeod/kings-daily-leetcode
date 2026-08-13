@@ -180,6 +180,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0144-binary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0144-binary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,5 +251,10 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0144-binary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
