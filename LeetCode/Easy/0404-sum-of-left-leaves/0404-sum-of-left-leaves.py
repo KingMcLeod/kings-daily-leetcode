@@ -7,9 +7,11 @@
 
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
-        left_leaves = []
+        left_leaves = 0
 
         def traverse(node):
+            nonlocal left_leaves
+
             if node is None:
                 return
 
@@ -17,7 +19,7 @@ class Solution:
                 left_node = node.left
 
                 if left_node.left == None and left_node.right == None:
-                    left_leaves.append(left_node.val)
+                    left_leaves += left_node.val
                 else:
                     traverse(node.left)
 
@@ -26,4 +28,4 @@ class Solution:
 
         traverse(root)
 
-        return sum(left_leaves)
+        return left_leaves
