@@ -16,9 +16,8 @@ class Solution:
 
             result_list.append(node.val)
 
-            if node.children is not None:
-                for node in node.children:
-                    traverse(node)
+            for node in node.children:
+                traverse(node)
 
         traverse(root)
 
