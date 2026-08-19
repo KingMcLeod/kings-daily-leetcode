@@ -1,13 +1,15 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        star_checker = set()
+        star_set = set()
 
-        for [n1, n2] in edges: # destructured subset in for loop
+        for arr in edges:
+            val_one = arr[0]
+            val_two = arr[1]
 
-            if n1 in star_checker:
-                return n1
-            elif n2 in star_checker:
-                return n2
+            if val_one in star_set:
+                return val_one
+            elif val_two in star_set:
+                return val_two
             else:
-                star_checker.add(n1)
-                star_checker.add(n2)
+                star_set.add(val_one)
+                star_set.add(val_two)
