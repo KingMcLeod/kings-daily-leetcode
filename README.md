@@ -47,6 +47,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [1436-destination-city](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 ## Linked List
@@ -84,6 +85,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0380-insert-delete-getrandom-o1](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0704-binary-search](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [1436-destination-city](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -169,6 +171,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0387-first-unique-character-in-a-string](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1436-destination-city](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/3076-shortest-uncommon-substring-in-an-array/) | Medium |
