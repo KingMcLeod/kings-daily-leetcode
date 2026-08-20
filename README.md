@@ -106,6 +106,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0404-sum-of-left-leaves](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0145-binary-tree-postorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +219,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,4 +264,12 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
