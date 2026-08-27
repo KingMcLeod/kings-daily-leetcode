@@ -85,6 +85,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0695-max-area-of-island](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1436-destination-city](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
@@ -135,6 +136,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0832-flipping-an-image](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -197,6 +199,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0200-number-of-islands](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [0695-max-area-of-island](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -266,6 +269,7 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | [0404-sum-of-left-leaves](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0695-max-area-of-island](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -283,5 +287,6 @@ I use this to track my progress, stay consistent, and showcase my problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KingMcLeod/kings-daily-leetcode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
