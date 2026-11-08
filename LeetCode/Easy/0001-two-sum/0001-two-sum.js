@@ -4,16 +4,16 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    const numObj = {}
+    const numsSeen = {};
 
-    for(let i = 0; i < nums.length; i++) {
+    for (let i = 0; i < nums.length; i++) {
         const currNum = nums[i];
-        const compliment = target - currNum
+        const compliment = target - currNum;
 
-        if (Object.hasOwn(numObj, compliment)) {
-            return [i, numObj[compliment]]
+        if (Object.hasOwn(numsSeen, compliment)) {
+            return [i, numsSeen[compliment]]
         } else {
-            numObj[currNum] = i
+            numsSeen[currNum] = i
         }
     }
 };
